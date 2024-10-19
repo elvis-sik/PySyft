@@ -124,7 +124,7 @@ In a variety of domains across society, data owners have **valid concerns about 
 
 Datasites enable data scientists to **answer questions** without even seeing or acquiring a copy of the data, **within the data owners's definition of acceptable use**. We call this process <b> Remote Data Science</b>.
 
-This means that the **current risks** of sharing information with someone will **no longer prevent** the vast benefits such as innovation, insights and scientific discovery. With each Datasite, data owners are able to enable `1000x more accesible data` in each scientific field and lead, together with data scientists, breakthrough innovation.
+This means that the **current risks** of sharing information with someone will **no longer prevent** the vast benefits such as innovation, insights and scientific discovery. With each Datasite, data owners are able to enable `1000x more accessible data` in each scientific field and lead, together with data scientists, breakthrough innovation.
 
 Learn more about our work on <a href="https://openmined.org/">our website</a>.
 
